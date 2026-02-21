@@ -76,5 +76,5 @@ void loop() {
 
     // TODO 14:
     // Add delay (500ms)
-    delay(900);
+    delay(1000);
 }
